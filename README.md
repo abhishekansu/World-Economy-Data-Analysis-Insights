@@ -23,7 +23,5 @@ Global economic indicators including GDP and growth metrics across countries.
 - Identified top-performing and underperforming economies
 - Observed regional economic trends and patterns
 
-### 📁 Files Included
-- Final Analysis (Excel)
-- Processed Solution (Excel)
-- Insights Report (PDF)
+### 📁 Files Included  
+- Google Drive: https://drive.google.com/drive/folders/1Ewfe_SbcegH5kYwf3GOzU1nK6imuszcZ?usp=drive_link
